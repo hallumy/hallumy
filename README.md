@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Ahlam Abdulkhalek</h1>
-<p align="center"><strong>Full-Stack Developer in training @ ALX | React • Python • Express.js | Building real-world solutions 🚀</strong></p>
+<h1 align="left">Hi there, I'm Ahlam Abdulkhalek</h1>
+<p align="left"><strong>Full-Stack Developer in training @ ALX | React • Python • Express.js | Building real-world solutions 🚀</strong></p>
 
 <hr />
 
-<h2>👩‍💻 About Me</h2>
+<h2>About Me</h2>
 <p>
   I'm currently learning full-stack development through the <strong>ALX Software Engineering Program</strong>. I love creating user-friendly interfaces with <strong>React</strong> and building APIs with <strong>Express.js</strong> and <strong>Python</strong>. My goal is to develop scalable, accessible, and impactful digital products.
 </p>
